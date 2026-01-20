@@ -17,6 +17,10 @@ The main questions explored were:
 > 💡 *Retail Analyst mindset:*  
 > This project replicates how data analytics can be embedded into daily retail operations — connecting sales data to strategic actions that enhance profitability, efficiency, and customer satisfaction.
 
+CREDIT:
+👩‍💼 Bhavana Venkatesha Murthy
+📍 Bangalore, India
+📧 bhavana.1251@gmail.com
 ---
 
 ### 📊 Dashboard Preview  
@@ -93,8 +97,9 @@ It emphasizes **Power BI storytelling**, operational understanding, and strategi
 ---
 
 ### 📬 Connect with Me  
-👩‍💼 **Bhavana Venkatesha Murthy**  
-📍 Bangalore, India  
-📧 [bhavana.1251@gmail.com](mailto:bhavana.1251@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/bhavana-venkatesha-murthy-2187b4322)  
-💻 [GitHub](https://github.com/bhavana1251-arch)
+👩‍💼 **RISHAV KUMAR**  
+📍 Mohali, India  
+📧 [kumar98rishav@gmail.com](mailto:kumar98rishav@gmail.com)  
+💼 [LinkedIn](linkedin.com/in/rishav98kumar)  
+💻 [GitHub](https://github.com/kumar98rishav-oss)
+
